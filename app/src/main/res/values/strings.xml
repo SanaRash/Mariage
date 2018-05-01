@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MariageTn</string>
+    <string name="splach_username">UserName</string>
+    <string name="splach_password">Password</string>
+    <string name="splach_connexion">Connexion</string>
+    <string name="splach_annuler">Annuler</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="Nom_ville">
+        <item>Sousse</item>
+        <item>Sfax</item>
+        <item>Tunis</item>
+    </string-array>
+    <string-array name="catégories">
+        <item>ROBES</item>
+        <item>COSTUME</item>
+        <item>PHOTOGRAPHE</item>
+        <item>SALLE DE FETES</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
